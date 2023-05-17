@@ -314,8 +314,6 @@ The User interface of deployment app is : <br>
 <br>
 You can see my notebook. All  the work is explained in detail.
 
-### AUTHOR
-<hr>
 
 
 
